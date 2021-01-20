@@ -14,17 +14,17 @@ I am currently studying JAMstack Web/App Development with [the coder's guild](ht
 
 My other interests include:
 
-- Reading
+* Reading
 
-- Baking (cherry choclate cake is the best!)
+* Baking (cherry choclate cake is the best!)
 
-- Oracle Cards (mainly for myself)
+* Oracle Cards (mainly for myself)
 
-- Nature Walks
+* Nature Walks
 
-- Movies (big star wars fan!)
+* Movies (big star wars fan!)
 
-- Music
+* Music
 
 You can use the [editor on GitHub](https://github.com/Louise-OConnell/Louise-Profile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
