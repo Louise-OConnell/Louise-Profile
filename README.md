@@ -1,6 +1,6 @@
 ## Hey, I'm Louise, welcome to my profile.
 
-![Me small image.JPEG](src)
+![Louise O'Connell](https://avatars3.githubusercontent.com/u/77390365?s=400&u=01272f8007c4c82421550a88629bc75d2173edba&v=4)
 
 You can use the [editor on GitHub](https://github.com/Louise-OConnell/Louise-Profile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
