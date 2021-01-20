@@ -8,9 +8,9 @@ I live in Wakefield, in West Yorkshire.
 
 I am extremely artistic, and alongside my passion for learning how to code, I also enjoy: design, illustration, and creative writing. 
 
-I own my own eco-clothing brand [Louise Lake Designs](https://louiselakedesigns.teemill.com/), where I create designs for organic cotton clothing and art prints on recycled paper. 
+I have my own eco-clothing brand [Louise Lake Designs](https://louiselakedesigns.teemill.com/), where I create designs for organic cotton clothing and art prints on recycled paper. 
 
-I first discovered my passion for coding during the first UK lockdown - during my participation in a 5 day coding challenge [5 Day Coding Challenge](https://codeinstitute.net/5-day-coding-challenge/), with [The Code Institute](https://codeinstitute.net/). 
+I first discovered my passion for coding during the first UK lockdown - during my participation in a [5 Day Coding Challenge](https://codeinstitute.net/5-day-coding-challenge/), with [The Code Institute](https://codeinstitute.net/). 
 
 I am currently studying JAMstack Web/App Development with [The Coder's Guild](https://thecodersguild.org.uk/), and I really love how creative coding can be. 
 
