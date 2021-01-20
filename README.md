@@ -10,9 +10,9 @@ I am extremely artistic, and alongside my passion for learning how to code, I al
 
 I own my own eco-clothing brand [Louise Lake Designs](https://louiselakedesigns.teemill.com/), where I create designs for organic cotton clothing and art prints on recycled paper. 
 
-I first discovered my passion for coding during the first UK lockdown - during my participation in a 5 day coding challenge, with the code institute. 
+I first discovered my passion for coding during the first UK lockdown - during my participation in a 5 day coding challenge [5 Day Coding Challenge](https://codeinstitute.net/5-day-coding-challenge/), with [The Code Institute](https://codeinstitute.net/). 
 
-I am currently studying JAMstack Web/App Development with [the coder's guild](https://thecodersguild.org.uk/), and I really love how creative coding can be. 
+I am currently studying JAMstack Web/App Development with [The Coder's Guild](https://thecodersguild.org.uk/), and I really love how creative coding can be. 
 
 My other interests include:
 
@@ -20,7 +20,7 @@ My other interests include:
 
 * Baking (cherry chocolate cake is the best!)
 
-* Oracle Cards (mainly for myself)
+* Oracle Cards 
 
 * Nature Walks
 
@@ -28,4 +28,4 @@ My other interests include:
 
 * Music
 
-* Protecting animals and the environment
+* Protecting animals and the environment (friends not food!)
